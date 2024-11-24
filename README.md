@@ -1,5 +1,6 @@
 # Network-Data-Transfer
-This is a simple utility to send/receive data/text in a network.
+This is a simple utility to send/receive data/text in a network.  
+This project makes use of socket library of python to communicate with the peer.
 
 ## Usage:
 This tool shall be used in the same network.  
